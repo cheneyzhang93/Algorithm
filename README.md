@@ -12,7 +12,7 @@
 | 直接插入排序 | O(n<sup>2</sup>) | sort.DirectInsert | √ |
 | 折半查找排序 | O(n<sup>2</sup>) | sort.HalfSearchInsert | √ |
 | 希尔排序 | O(n<sup>2</sup>) | sort.Shell | √ |
-| 归并排序 | | | × |
+| 归并排序 | O(nlogn) | sort.Merge | √ |
 | 快速排序 | | | × |
 | 基数排序 | | | × |
 | 堆排序   | | | × |
