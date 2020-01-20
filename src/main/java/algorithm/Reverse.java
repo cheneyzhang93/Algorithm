@@ -1,5 +1,8 @@
 package algorithm;
 
+/**
+ * leetCode:https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/33/
+ */
 public class Reverse {
 
     public int reverse(int x) {

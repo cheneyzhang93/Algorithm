@@ -3,6 +3,7 @@
     Record :
     
     * 默认所有排序都是从小到大
+    * LeetCode题
     
 - ### 排序
 | 种类 | 时间复杂度（平均） |方法 | 完成度 |
@@ -75,3 +76,19 @@
 6. 判断右子树是否满足大[小]顶堆，右子树的左子节点是否小于[大于]右子树节点，右子树的右子节点是否小于[大于]右子树节点，如果不满于大[小]顶堆，则递归调整
 7. 每一轮数组调整完之后，大顶堆的堆顶与堆尾进行替换，则就把大数后移
 8. 调整完后再遍历
+
+- ### LeetCode
+- #### [存在重复](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
+- #### [两个数组的交集 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
+- #### [有效的数独](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/30/)
+- #### [买卖股票的最佳时机 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/)
+- #### [移动零](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/)
+- #### [加一](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/)
+- #### [从排序数组中删除重复项](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/)
+- #### [整数反转](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/33/)
+- #### [反转字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/32/)
+- #### [旋转数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/)
+- #### [旋转图像](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/31/)
+- #### [只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/)
+
+
