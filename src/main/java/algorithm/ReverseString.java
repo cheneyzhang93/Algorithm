@@ -1,7 +1,7 @@
 package algorithm;
 
 /**
- * leetcode:https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/33/
+ * leetcode:https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/32/
  */
 public class ReverseString {
 
