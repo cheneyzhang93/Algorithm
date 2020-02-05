@@ -95,6 +95,7 @@
 - #### [验证回文字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/36/) 
 - #### [字符串转换整数 (atoi)](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/37/) 
 - #### [实现 strStr()](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/38/) 
+- #### [外观数列](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/39/)
 - #### [最长公共前缀](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/40/)
 
 
