@@ -68,7 +68,7 @@
 7. 每一轮数组调整完之后，大顶堆的堆顶与堆尾进行替换，则就把大数后移
 8. 调整完后再遍历
 
-- ### LeetCode 探索-初级算法 [26] 
+- ### LeetCode 探索-初级算法 [27] 
 1. #### [存在重复](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
 2. #### [两个数组的交集 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
 3. #### [有效的数独](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/30/)
@@ -95,3 +95,4 @@
 24. #### [回文链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/45/)
 25. #### [环形链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/46/)
 26. #### [二叉树的最大深度](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/)
+27. #### [验证二叉搜索树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/48/)
