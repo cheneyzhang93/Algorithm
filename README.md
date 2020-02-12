@@ -1,10 +1,5 @@
 # 算法学习
 
-    Record :
-    
-    * 默认所有排序都是从小到大
-    * LeetCode题
-    
 - ### 排序
 | 种类 | 时间复杂度（平均） |方法 | 完成度 |
 | ---- | ---- | ---- | ---- | 
@@ -16,10 +11,6 @@
 | 归并排序 | O(nlogn) | sort.Merge | √ |
 | 快速排序 | O(n) | sort.Quick | √ |
 | 堆排序   | O(nlog2n) | sort.Heap | √ |
-| 桶排序   | | | × |
-| 基数排序 | | | × |
-| 计数排序 | | | × |
-
 
 - #### 冒泡排序
 1. 比较相邻的元素。如果第一个比第二个大,就交换他们两个
@@ -77,30 +68,30 @@
 7. 每一轮数组调整完之后，大顶堆的堆顶与堆尾进行替换，则就把大数后移
 8. 调整完后再遍历
 
-- ### LeetCode
-- #### [存在重复](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
-- #### [两个数组的交集 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
-- #### [有效的数独](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/30/)
-- #### [买卖股票的最佳时机 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/)
-- #### [移动零](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/)
-- #### [加一](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/)
-- #### [从排序数组中删除重复项](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/)
-- #### [整数反转](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/33/)
-- #### [反转字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/32/)
-- #### [旋转数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/)
-- #### [旋转图像](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/31/)
-- #### [只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/)
-- #### [字符串中的第一个唯一字符](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/34/)
-- #### [有效的字母异位词](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/35/)
-- #### [验证回文字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/36/) 
-- #### [字符串转换整数 (atoi)](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/37/) 
-- #### [实现 strStr()](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/38/) 
-- #### [外观数列](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/39/)
-- #### [最长公共前缀](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/40/)
-- #### [删除链表中的节点](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/41/)
-- #### [删除链表的倒数第N个节点](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/42/)
-- #### [反转链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/43/)
-- #### [合并两个有序链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/44/)
-- #### [回文链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/45/)
-- #### [环形链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/46/)
+- ### LeetCode 探索-初级算法 [25] 
+1. #### [存在重复](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
+2. #### [两个数组的交集 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
+3. #### [有效的数独](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/30/)
+4. #### [买卖股票的最佳时机 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/)
+5. #### [移动零](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/)
+6. #### [加一](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/)
+7. #### [从排序数组中删除重复项](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/)
+8. #### [整数反转](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/33/)
+9. #### [反转字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/32/)
+10. #### [旋转数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/)
+11. #### [旋转图像](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/31/)
+12. #### [只出现一次的数字](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/25/)
+13. #### [字符串中的第一个唯一字符](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/34/)
+14. #### [有效的字母异位词](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/35/)
+15. #### [验证回文字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/36/) 
+16. #### [字符串转换整数 (atoi)](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/37/) 
+17. #### [实现 strStr()](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/38/) 
+18. #### [外观数列](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/39/)
+19. #### [最长公共前缀](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/40/)
+20. #### [删除链表中的节点](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/41/)
+21. #### [删除链表的倒数第N个节点](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/42/)
+22. #### [反转链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/43/)
+23. #### [合并两个有序链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/44/)
+24. #### [回文链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/45/)
+25. #### [环形链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/46/)
 
