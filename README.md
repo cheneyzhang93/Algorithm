@@ -97,3 +97,7 @@
 26. #### [二叉树的最大深度](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/)
 27. #### [验证二叉搜索树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/48/)
 28. #### [对称二叉树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/49/)
+29. #### [二叉树的层次遍历](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/50/)
+
+
+
