@@ -99,6 +99,7 @@
 28. #### [对称二叉树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/49/)
 29. #### [二叉树的层次遍历](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/50/)
 30. #### [将有序数组转换为二叉搜索树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/51/)
+31. #### [合并两个有序数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/8/sorting-and-searching/52/)
 
 
 
