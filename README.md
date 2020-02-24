@@ -103,6 +103,7 @@
 32. #### [第一个错误的版本](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/8/sorting-and-searching/53/)
 33. #### [爬楼梯](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/54/)
 34. #### [买卖股票的最佳时机](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/55/)
+35. #### [最大子序和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/56/)
 
 
 
