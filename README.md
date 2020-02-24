@@ -101,6 +101,8 @@
 30. #### [将有序数组转换为二叉搜索树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/51/)
 31. #### [合并两个有序数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/8/sorting-and-searching/52/)
 32. #### [第一个错误的版本](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/8/sorting-and-searching/53/)
+33. #### [爬楼梯](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/54/)
+34. #### [买卖股票的最佳时机](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/55/)
 
 
 
