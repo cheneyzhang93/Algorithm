@@ -68,9 +68,9 @@
 7. 每一轮数组调整完之后，大顶堆的堆顶与堆尾进行替换，则就把大数后移
 8. 调整完后再遍历
 
-- ### LeetCode 探索-初级算法 [27] 
+- ### LeetCode 探索-初级算法 
 1. #### [存在重复](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
-2. #### [两个数组的交集 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)
+2. #### [两个数组的交集 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/26/)
 3. #### [有效的数独](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/30/)
 4. #### [买卖股票的最佳时机 II](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/)
 5. #### [移动零](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/)
@@ -100,6 +100,7 @@
 29. #### [二叉树的层次遍历](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/50/)
 30. #### [将有序数组转换为二叉搜索树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/7/trees/51/)
 31. #### [合并两个有序数组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/8/sorting-and-searching/52/)
+32. #### [第一个错误的版本](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/8/sorting-and-searching/53/)
 
 
 
