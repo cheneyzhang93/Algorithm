@@ -111,6 +111,7 @@
 40. #### [计数质数](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/25/math/61/)
 41. #### [3的幂](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/25/math/62/)
 42. #### [罗马数字转整数](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/25/math/63/)
+43. #### [位1的个数](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/26/others/64/)
 
 
 
