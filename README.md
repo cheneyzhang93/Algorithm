@@ -108,6 +108,7 @@
 37. #### [Shuffle an Array](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/24/design/58/)
 38. #### [最小栈](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/24/design/59/)
 39. #### [Fizz Buzz](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/25/math/60/)
+40. #### [计数质数](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/25/math/61/)
 
 
 
