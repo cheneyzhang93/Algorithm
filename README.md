@@ -106,6 +106,7 @@
 35. #### [最大子序和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/56/)
 36. #### [打家劫舍](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/57/)
 37. #### [Shuffle an Array](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/24/design/58/)
+38. #### [最小栈](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/24/design/59/)
 
 
 
