@@ -10,6 +10,12 @@ public class HammingWeight {
     }
 
     public static int hammingWeight(int n) {
-        return Integer.bitCount(n);
+//        return Integer.bitCount(n);
+        int count = 0;
+        while (n != 0) {
+            count++;
+            n &= (n - 1);
+        }
+        return count;
     }
 }
