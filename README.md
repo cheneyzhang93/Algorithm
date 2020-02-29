@@ -113,6 +113,7 @@
 42. #### [罗马数字转整数](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/25/math/63/)
 43. #### [位1的个数](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/26/others/64/)
 44. #### [汉明距离](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy/26/others/65/)
+45. #### [颠倒二进制位](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy/26/others/66/)
 
 
 
