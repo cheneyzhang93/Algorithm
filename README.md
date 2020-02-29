@@ -115,6 +115,7 @@
 44. #### [汉明距离](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy/26/others/65/)
 45. #### [颠倒二进制位](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy/26/others/66/)
 46. #### [帕斯卡三角形](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy/26/others/67/)
+47. #### [有效的括号](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy/26/others/68/)
 
 
 
