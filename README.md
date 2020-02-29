@@ -118,5 +118,6 @@
 47. #### [有效的括号](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy/26/others/68/)
 48. #### [缺失数字](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy/26/others/69/)
 
-
+- ### LeetCode 动态规划
+ #### 303 [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)
 
