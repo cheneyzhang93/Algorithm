@@ -123,5 +123,6 @@
 #### 292 [判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
 #### 746 [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 #### 1025 [除数博弈](https://leetcode-cn.com/problems/divisor-game/)
+#### 面试题 08.01 [三步问题](https://leetcode-cn.com/problems/three-steps-problem-lcci/)
 
 
