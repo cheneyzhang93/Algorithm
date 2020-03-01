@@ -130,7 +130,7 @@
 
 - ### LeetCode 每日一题（2020.3.1~）
 #### 225 [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
-#### 206 [用队列实现栈](https://leetcode-cn.com/problems/reverse-linked-list/)
+#### 206 [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 
 - ### LeetCode 探索-中级算法 
