@@ -122,4 +122,6 @@
 #### 303 [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)
 #### 292 [判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
 #### 746 [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+#### 1025 [除数博弈](https://leetcode-cn.com/problems/divisor-game/)
+
 
