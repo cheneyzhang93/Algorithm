@@ -132,11 +132,12 @@
 #### 225 [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 #### 206 [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 #### 面试题 10.01 [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)
-
+#### 994 [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)   
 
 - ### LeetCode 探索-中级算法 
 1. #### [三数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/75/)
 2. #### [矩阵置零](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/76/)
 3. #### [字谜分组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/77/)
 4. #### [无重复字符的最长子串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/78/)
+5. #### [最长回文子串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/79/)
 
