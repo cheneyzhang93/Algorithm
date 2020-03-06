@@ -134,6 +134,7 @@
 #### 面试题 10.01 [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)
 #### 994 [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)   
 #### 1103 [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/)   
+#### 面试题57 - II. [和为s的连续正数序列](https://leetcode-cn.com/problems/distribute-candies-to-people/)   
 
 - ### LeetCode 探索-中级算法 
 1. #### [三数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/75/)
