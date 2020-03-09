@@ -24,15 +24,11 @@ public class MaxProfit {
 
     public static int maxProfit(int[] prices) {
         if (prices.length == 0 || prices.length == 1) return 0;
-        int curr = prices[0];
         int max = 0;
+        int curr = prices[0];
         for (int i = 1; i < prices.length; i++) {
-            if (curr > prices[i]) {
-                curr = prices[i];
-            } else {
-                int temp = prices[i] - curr;
-                if (temp > max) max = temp;
-            }
+            curr = Math.min(curr, prices[i]);
+            max = Math.max(max, prices[i] - curr);
         }
         return max;
     }
