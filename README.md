@@ -144,6 +144,7 @@
 #### 543. [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)   
 #### 1013. [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)   
 #### 1071. [字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)   
+#### 365. [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/)   
 
 - ### LeetCode 探索-中级算法 
 1. #### [三数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/75/)
