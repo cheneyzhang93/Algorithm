@@ -149,6 +149,7 @@
 #### 面试题 17.16. [按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)   
 #### 999. [车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/)   
 #### 914. [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)   
+#### 820. [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)   
 
 - ### LeetCode 探索-中级算法 
 1. #### [三数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/75/)
