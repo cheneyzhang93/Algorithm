@@ -150,6 +150,7 @@
 #### 999. [车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/)   
 #### 914. [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)   
 #### 820. [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)   
+#### 面试题62. [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)   
 
 - ### LeetCode 探索-中级算法 
 1. #### [三数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/75/)
