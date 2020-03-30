@@ -158,4 +158,5 @@
 3. #### [字谜分组](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/77/)
 4. #### [无重复字符的最长子串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/78/)
 5. #### [最长回文子串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/79/)
+6. #### [递增的三元子序列](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/80/)
 
