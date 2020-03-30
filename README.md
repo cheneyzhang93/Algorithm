@@ -161,4 +161,6 @@
 6. #### [递增的三元子序列](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/80/)
 7. #### [两数相加](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/31/linked-list/82/)
 8. #### [奇偶链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/31/linked-list/83/)
+9. #### [相交链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/31/linked-list/84/)
+
 
