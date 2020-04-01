@@ -151,6 +151,7 @@
 #### 914. [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)   
 #### 820. [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)   
 #### 面试题62. [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)   
+#### 912. [排序数组](https://leetcode-cn.com/problems/sort-an-array/)   
 
 - ### LeetCode 探索-中级算法 
 1. #### [三数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/75/)
@@ -162,5 +163,6 @@
 7. #### [两数相加](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/31/linked-list/82/)
 8. #### [奇偶链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/31/linked-list/83/)
 9. #### [相交链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/31/linked-list/84/)
+10. #### [中序遍历二叉树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/32/trees-and-graphs/85/)
 
 
