@@ -152,6 +152,7 @@
 #### 820. [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)   
 #### 面试题62. [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)   
 #### 912. [排序数组](https://leetcode-cn.com/problems/sort-an-array/)   
+#### 151. [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)   
 
 - ### LeetCode 探索-中级算法 
 1. #### [三数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/29/array-and-strings/75/)
