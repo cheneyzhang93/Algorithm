@@ -131,6 +131,10 @@
 #### 63 [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
 #### 64 [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 
+- ### LeetCode 链表
+#### 面试题 02.08. [环路检测](https://leetcode-cn.com/problems/linked-list-cycle-lcci/)
+#### 面试题 02.04. [分割链表](https://leetcode-cn.com/problems/partition-list-lcci/)
+
 - ### LeetCode 每日一题（2020.3.1~）
 #### 225 [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 #### 206 [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
