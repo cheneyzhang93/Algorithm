@@ -1,4 +1,4 @@
-package category;
+package category.array;
 
 /**
  * 1343. 大小为 K 且平均值大于等于阈值的子数组数目
