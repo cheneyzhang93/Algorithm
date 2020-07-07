@@ -170,4 +170,5 @@
 9. #### [相交链表](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/31/linked-list/84/)
 10. #### [中序遍历二叉树](https://leetcode-cn.com/explore/interview/card/top-interview-questions-medium/32/trees-and-graphs/85/)
 
-
+- ### 数组
+#### 1. 1343. [大小为K且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)   
