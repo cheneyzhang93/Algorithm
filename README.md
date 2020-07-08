@@ -174,3 +174,4 @@
 #### 1. 1343. [大小为K且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)   
 #### 2. 面试题 16.04. [井字游戏](https://leetcode-cn.com/problems/tic-tac-toe-lcci/)   
 #### 3. 1144. [递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/)   
+#### 4. 1051. [高度检查器](https://leetcode-cn.com/problems/height-checker/)   
