@@ -178,3 +178,7 @@
 #### 5. 剑指 Offer 53 - II. [0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)   
 #### 6. 1414. [和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)   
 #### 7. 714. [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)   
+#### 8. 695. [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)   
+#### 9. 1051. [高度检查器](https://leetcode-cn.com/problems/height-checker/)   
+#### 10. 41. [缺失的第一个正数](ttps://leetcode-cn.com/problems/first-missing-positive/)   
+#### 11. 674. [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)   
