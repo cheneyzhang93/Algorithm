@@ -182,3 +182,4 @@
 #### 9. 1051. [高度检查器](https://leetcode-cn.com/problems/height-checker/)   
 #### 10. 41. [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)   
 #### 11. 674. [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)   
+#### 12. 162. [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)   
