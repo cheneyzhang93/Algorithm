@@ -184,3 +184,4 @@
 #### 11. 674. [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)   
 #### 12. 162. [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)   
 #### 12. 面试题 16.20. [T9键盘](https://leetcode-cn.com/problems/t9-lcci/)   
+#### 12. 1160. [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)   
